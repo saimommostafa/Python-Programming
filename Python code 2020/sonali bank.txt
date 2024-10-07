@@ -1,0 +1,8 @@
+Bank Name	Sonali Bank Limited
+Branch Name	Court Building Branch
+Address 	Court Building, Barguna
+Telephone	0448 62562, 62349
+E-mail	        brbargunacourt@sonalibank.com.bd
+Branch Code	016
+SWIFT Code	BSONBDDH
+Routing Number	200040165

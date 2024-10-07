@@ -1,0 +1,23 @@
+1) Start  > Run  > type  %temp%  Press Ok > Delete All file ..
+
+2) Start  > Run  > type  prefetch  Press Ok > Delete All file ..
+
+3) Start  > Run  > type  cleanmgr  Press Ok > Select C: Drive > Ok > Delete All file ..
+
+4)  Start  > Run  > type  cmd  Press Enter >  type  tree  Enter Ok ..
+
+5) Start  > Run  > type  cmd  Press Enter >  type  regsvr32 actxprxy.dll Enter Ok ..
+
+6) Start  > Run  > type  msconfig  Press Ok > Select Boot Tab > set timeout 3 seconds > click      
+    Advance option > ckeck box checkd both  number of processors and maximun memory..
+
+7) Start  > Run  > type  msconfig  Press Ok > Select Startup Tab >  Disable uncheck the stuff that         are not necessary or click Disable All.
+
+8)  Start  > Run  > type  regedit  Press Ok > HKEY_LOCAL_MACHINE > SYSTEM >
+     CurrentcontrolSet > Control > Session Manager > Memory Management > PrefetchParameters  
+      > EnableSuperfetch > Set 0 value data
+
+9) Go Control Panel\User Accounts\User Accounts > User Account Control setting and  set never
+    notify me.
+
+10)Go Computer Management > Services > Windows Update > Set Disable
